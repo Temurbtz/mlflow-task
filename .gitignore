@@ -1,0 +1,51 @@
+# Python bytecode
+__pycache__/
+*.pyc
+*.pyo
+
+# Virtual environment folders
+venv/
+env/
+.venv/
+.env/
+
+# IDEs and text editors
+.vscode/
+.idea/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints
+
+# Pytest
+.cache/
+
+# Distribution / packaging
+build/
+dist/
+*.egg-info/
+
+# Logs
+*.log
+
+# Sensitive data
+*.env
+*.env.local
+*.env.*.local
+
+# MyPy
+.mypy_cache/
+
+# Coverage reports
+*.coverage
+.coverage.*
+.cache
+
+# Test results
+nosetests.xml
+coverage.xml
+*.cover
+*.log
+
+# Python package
+*.egg
+*.egg-info
